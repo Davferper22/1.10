@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5e9dc;
+}
+
+header {
+    background-color: #d6b290;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    color: #7a3d00;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+main {
+    position: relative;
+    height: 70vh;
+    background-color: #f5e9dc;
+}
+
+.link-carta {
+    top: 20%;
+    left: 15%;
+  
+}
+
+.link-cafe {
+    top: 50%;
+    left: 50%;
+  text-align: center;
+}
+
+.link-contacto {
+    top: 70%;
+ text-align: right;
+}
+
+footer {
+    background-color: #d6b290;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    color: #7a3d00;
+    margin: 0;
+}
+
